@@ -1,0 +1,2 @@
+This file is digitally signed using RSA.
+Any modification will invalidate the signature.
